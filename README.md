@@ -2,6 +2,8 @@
 
 Video ratings during in an Angular live chat application using sentiment analysis 
 
+[View tutorial](https://pusher.com/tutorials/live-comments-sentiment-analysis-angular)
+
 ## Getting Started
 
 1. Install the angular [CLI](https://cli.angular.io) by running `npm install -g @angular/cli`
